@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mbabauer/codechimp-autoform-masked-input.svg)](https://travis-ci.org/mbabauer/codechimp-autoform-masked-input)
+
 AutoForm Masked Input
 =====================
 
