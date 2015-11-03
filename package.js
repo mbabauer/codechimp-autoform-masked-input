@@ -16,8 +16,8 @@ Package.onUse(function(api) {
     api.use('ecmascript');
     api.use('templating');
     api.use('blaze');
-    api.use('mrt:mask');
-    api.use('aldeed:autoform');
+    api.use('mrt:mask@0.0.1');
+    api.use('aldeed:autoform@5.0.0');
 
     api.addFiles([
         'masked-input.html',
