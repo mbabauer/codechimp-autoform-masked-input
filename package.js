@@ -29,5 +29,5 @@ Package.onTest(function(api) {
     api.use('ecmascript');
     api.use('tinytest');
     api.use('codechimp:autoform-masked-input');
-    api.addFiles('autoform-masked-input-tests.js');
+    api.addFiles('masked-input-tests.js');
 });
