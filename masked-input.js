@@ -12,7 +12,6 @@ Template.afMaskedInput.onRendered(function() {
 	var $input = this.$('input');
 	var mask = data.atts.mask ? data.atts.mask : '00/00/0000';
 
-	console.log('data.atts.maskOptions: ', data.atts.maskOptions);
 	$input.mask(mask, data.atts.maskOptions);
 });
 
